@@ -1,5 +1,9 @@
 <h1 align="center">Storiesgram</h1>
 
+<p align="center">
+  <img src="screenshot.png" />
+</p>
+
 Get instagram stories from third public accounts (or yours)
 
 ---
