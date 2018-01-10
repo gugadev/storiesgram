@@ -13,7 +13,7 @@ Get instagram stories from third public accounts (or yours)
 - `-u` The target userid
 - `-o` Output directory
 
-If you don't know the userid of the target got it [here](https://smashballoon.com/instagram-feed/find-instagram-user-id/).
+If you don't know the instagram id of the target, get it [here](https://smashballoon.com/instagram-feed/find-instagram-user-id/).
 
 ### Example
 
